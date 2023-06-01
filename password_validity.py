@@ -5,7 +5,7 @@ password = input("Enter The Password : ")
 
 #Count each characters
 lower, upper, num, s_char = 0, 0, 0, 0
-special = "!@#$%^&*()-_+=/\{}[]';,|:"
+special = "!@#$%^&*()-_+=/\{}[]';,|:?"
 
 #Count each char in password
 for i in password:
