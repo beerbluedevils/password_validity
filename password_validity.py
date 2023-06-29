@@ -1,6 +1,7 @@
 #Password Strength Checker
 #test git pull
 #test git pull to feature1
+#add new line
 #Input Password
 password = input("Enter The Password : ")
 
