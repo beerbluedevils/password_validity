@@ -39,6 +39,4 @@ elif (lower >= 1 or upper >= 1 or num >= 1 and s_char >= 0) and (lower+upper+num
 else:
     print("Your password is too short!")
 
-
-
-
+#Add new line to branch feature1 and test push repo to remote
