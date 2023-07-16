@@ -18,6 +18,3 @@ def get_password():
             print('You have been blocked!')
         
 get_password()
-
-        
-
